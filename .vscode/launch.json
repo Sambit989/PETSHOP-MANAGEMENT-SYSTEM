@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/cart.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/cart.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/cart1.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/cart1.html"
+        }
+    ]
+}
